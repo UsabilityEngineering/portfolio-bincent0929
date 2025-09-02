@@ -1,11 +1,13 @@
 # Vincent's UX Portfolio
 
-I'm a Computer Science student at Chico State looking to learn about Usability.
+<img src="/assets/PXL_20250729_043316968.MP.jpg" width="200" />
 
-## UX Team Project
-
-Coming soon.
+- I'm a Computer Science student at Chico State learning about Usability through studying how others have designed their products.
 
 ## UX Journal
 
 [Vincent's UX Portfolio](journal/)
+
+## UX Team Project
+
+Coming soon...
