@@ -1,6 +1,6 @@
-# UX Portfolio
+# Vincent's UX Portfolio
 
-About me...
+I'm a Computer Science student at Chico State looking to learn about Usability.
 
 ## UX Team Project
 
@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Vincent's UX Portfolio](journal/)
