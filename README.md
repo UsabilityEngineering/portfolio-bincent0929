@@ -6,7 +6,7 @@
 
 ## UX Journal
 
-[My UX Journal](./journal/Vincent's%20UX%20Journal)
+[My UX Journal](./journal/vincents-ux-journal)
 
 ## UX Team Project
 
