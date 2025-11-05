@@ -6,8 +6,8 @@ Vincent Roberson
 So I went ahead and opened up a YouTube video, like I usually do when I’m bored. This time, for some reason, I was feeling like checking out a little Ted Talk. The one I picked happened to be “How to learn any language in six months,” by Chris Lonsdale. Though, instead of going ahead and watching the video, after I clicked on the video, I decided to pause it and appreciate YouTube’s UX.
 
 <div align="center">
-    ![][image1]  
-    This is what I was greeted with when I clicked on the video.
+    <div>![][image1]</div>
+    <p>This is what I was greeted with when I clicked on the video.</p>
 </div>
 
 As you can see in the image, the video is featured on the left-hand side of the screen; with recommended videos on the right hand side of the screen, and more information about the video just below the video. It honestly appears that the main video, itself, takes up less of the area of the page than all the other elements on the page.
