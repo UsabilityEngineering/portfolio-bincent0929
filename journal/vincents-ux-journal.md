@@ -26,11 +26,11 @@ So I went ahead and hovered over the video, and was greeted with the updated pag
 
 Ok, I actually did a little more than hover over the video— I actually also pressed the theater mode button (or pressed “t,” for theater) to enlarge the video, in addition to hovering over the video.
 
-In this hovered and enlarged state, the watcher is presented with a multitude of choices to change their video viewing experience. The obvious possible choices, including, play/pause, volume adjustment, seeking through the video, a fullscreen toggle, and captions toggle were all present. All stuff a user would find on basically any video player on your computer; which makes it very familiar for nearly anyone that has watched a video using a computer. Additionally, YouTube has a few extras, like theater mode, with its very unique icon, which I mentioned before, the autoplay button, which plays a video right after the current one finishes, and then the gear icon that allows you to change various other aspects about how the video is played, like video quality.
+In this hovered and enlarged state, the watcher is presented with a multitude of choices to change their video viewing experience. The obvious possible choices, including, play/pause, volume adjustment, seeking through the video, a fullscreen toggle, and captions (good for **accessibility**) toggle were all present. All stuff a user would find on basically any video player on your computer; which makes it very familiar for nearly anyone that has watched a video using a computer. Additionally, YouTube has a few extras, like theater mode, with its very unique icon, which I mentioned before, the autoplay button, which plays a video right after the current one finishes, and then the gear icon that allows you to change various other aspects about how the video is played, like video quality.
 
-In my opinion, I think that the theater icon is a little ambiguous for new users. I don’t think I really understood what it even did until I saw other people using it and realized how useful it could be while watching video. Now I use it all the time. Similar to the autoplay button, but in reverse. YouTube kind of forces the autoplay button on you when you first start using YouTube. They have it on by default and that’s the only reason I’d assume that anyone would even know what it did unless they got curious.
+In my opinion, I think that the theater icon is a little ambiguous for new users, it doesn't have a strong **affordance** for the user. I don’t think I really understood what it even did until I saw other people using it and realized how useful it could be while watching video. Now I use it all the time. Similar to the autoplay button, but in reverse. YouTube kind of forces the autoplay button on you when you first start using YouTube. They have it on by default and that’s the only reason I’d assume that anyone would even know what it did unless they got curious.
 
-In contrast, the gear icon is something that a user may assume allows you to change the “settings” of the video. When you click on it, you’re presented with the options in the image below.
+In contrast, the gear icon is something that a user may assume allows you to change the “settings” of the video, having a strong **affordance** for the user. When you click on it, you’re presented with the options in the image below.
 
 <div align="center">
     <img src="/portfolio-bincent0929/assets/first-journal-images/video-settings.png" style="max-width: 500px; width: 100%;">
@@ -63,9 +63,9 @@ Finally, I scrolled just pasted the description box of the video, and was greete
 
 Clearly, it has a super simple layout. It tells you how many comments there are, you can sort through and see what people have said, and it has an indicator of where you can add a comment with “Add a comment…” and an underline below it.
 
-Now that I had looked through a little bit about the video, I decided to go back and really watch the video. After a while, I finished watching it. Now I know how I can learn Russian quickly to say hello to someone in St. Petersburg\!
+Now that I had looked through a little bit about the video, I decided to go back and really watch the video. After a while, I finished watching it. Now I know how I can learn Russian quickly to say hello to someone in St. Petersburg.
 
-After the video was over, I was still bored, and took myself out of theater mode and looked back at the videos on the right hand side. The thumbnails **effectively** helped me to get an idea of what the video looked like, and the titles in combination with them helped me to get an idea of what they were about.
+After the video was over, I was still bored, and took myself out of theater mode and was *afford*ed the opportunity to look back at the videos on the right hand side. The thumbnails **effectively** helped me to get an idea of what the video looked like, and the titles in combination with them helped me to get an idea of what they were about.
 
 <div align="center">
     <img src="/portfolio-bincent0929/assets/first-journal-images/video-suggestions.png" style="max-width: 500px; width: 100%;">
