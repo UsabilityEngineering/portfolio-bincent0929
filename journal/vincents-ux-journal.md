@@ -1,9 +1,10 @@
-# Checking Out YouTube’s Video Playing UX
+<div align="center">
+    <h1>Checking Out YouTube’s Video Playing UX</h1>
+    <p>Vincent Roberson</p>
+    <p>2025-11-10</p>
+</div>
 
-Vincent Roberson  
-2025-11-10  
-
----
+<hr>
 
 So I went ahead and opened up a YouTube video, like I usually do when I’m bored. This time, for some reason, I was feeling like checking out a little Ted Talk. The one I picked happened to be “How to learn any language in six months,” by Chris Lonsdale. Though, instead of going ahead and watching the video, after I clicked on the video, I decided to pause it and appreciate YouTube’s UX.
 
