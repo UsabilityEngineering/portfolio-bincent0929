@@ -2,7 +2,9 @@
 
 Vincent Roberson  
 2025-11-10  
+
 ---
+
 So I went ahead and opened up a YouTube video, like I usually do when I’m bored. This time, for some reason, I was feeling like checking out a little Ted Talk. The one I picked happened to be “How to learn any language in six months,” by Chris Lonsdale. Though, instead of going ahead and watching the video, after I clicked on the video, I decided to pause it and appreciate YouTube’s UX.
 
 <div align="center">
