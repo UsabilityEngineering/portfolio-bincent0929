@@ -6,7 +6,7 @@ Vincent Roberson
 So I went ahead and opened up a YouTube video, like I usually do when I’m bored. This time, for some reason, I was feeling like checking out a little Ted Talk. The one I picked happened to be “How to learn any language in six months,” by Chris Lonsdale. Though, instead of going ahead and watching the video, after I clicked on the video, I decided to pause it and appreciate YouTube’s UX.
 
 <div align="center">
-    <img src="/assets/first-journal-images/initial-video-page.png" style="max-width: 500px; width: 100%;">
+    <img src="/portfolio-bincent0929/assets/first-journal-images/initial-video-page.png" style="max-width: 500px; width: 100%;">
     <p>This is what I was greeted with when I clicked on the video.</p>
 </div>
 
@@ -17,7 +17,7 @@ I decided to unpause the video after giving the UI a little look over, and short
 So I went ahead and hovered over the video, and was greeted with the updated page below.
 
 <div align="center">
-    <img src="/assets/first-journal-images/on-hover-and-theater.png" style="max-width: 500px; width: 100%;">
+    <img src="/portfolio-bincent0929/assets/first-journal-images/on-hover-and-theater.png" style="max-width: 500px; width: 100%;">
     <p>When you hover over the image, you are greeted with a multitude of options to change the behavior of the video.</p>
 </div>
 
@@ -30,7 +30,7 @@ In my opinion, I think that the theater icon is a little ambiguous for new users
 In contrast, the gear icon is something that a user may assume allows you to change the “settings” of the video. When you click on it, you’re presented with the options in the image below.
 
 <div align="center">
-    <img src="/assets/first-journal-images/video-settings.png" style="max-width: 500px; width: 100%;">
+    <img src="/portfolio-bincent0929/assets/first-journal-images/video-settings.png" style="max-width: 500px; width: 100%;">
     <p>With the changes to the video including, subtitles, playback speed, quality, and more, as the image shows.</p>
 </div>
 
@@ -43,7 +43,7 @@ For annotations, I’m only familiar with it because I have used YouTube a lot�
 After getting the video all tuned up and playing like I like, I wanted to get a better idea of some background of the video while I listened. So I decided to scroll down to engage a little bit with the video, and I was presented with the below portion of the page.
 
 <div align="center">
-    <img src="/assets/first-journal-images/video-description.png" style="max-width: 500px; width: 100%;">
+    <img src="/portfolio-bincent0929/assets/first-journal-images/video-description.png" style="max-width: 500px; width: 100%;">
     <p>Here’s most of the description of the video (below is just socials for the channel and a YouTube-generated transcript from the captions)</p>
 </div>
 
@@ -54,7 +54,7 @@ This is relatively new, but just below the description, it’s apparent that You
 Finally, I scrolled just pasted the description box of the video, and was greeted with a comment section. The top of which can be seen in the image below.
 
 <div align="center">
-    <img src="/assets/first-journal-images/video-comments.png" style="max-width: 500px; width: 100%;">
+    <img src="/portfolio-bincent0929/assets/first-journal-images/video-comments.png" style="max-width: 500px; width: 100%;">
     <p>I didn’t want to show any actual comments, just in case they were crazy.</p>
 </div>
 
@@ -65,7 +65,7 @@ Now that I had looked through a little bit about the video, I decided to go back
 After the video was over, I was still bored, and took myself out of theater mode and looked back at the videos on the right hand side. The thumbnails **effectively** helped me to get an idea of what the video looked like, and the titles in combination with them helped me to get an idea of what they were about.
 
 <div align="center">
-    <img src="/assets/first-journal-images/video-suggestions.png" style="max-width: 500px; width: 100%;">
+    <img src="/portfolio-bincent0929/assets/first-journal-images/video-suggestions.png" style="max-width: 500px; width: 100%;">
     <p>The recommended videos from the first image in my journal.</p>
 </div>
 
