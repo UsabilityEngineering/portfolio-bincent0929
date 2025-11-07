@@ -13,9 +13,9 @@ So I went ahead and opened up a YouTube video, like I usually do when I’m bore
     <p>This is what I was greeted with when I clicked on the video.</p>
 </div>
 
-As you can see in the image, the video is featured on the left-hand side of the screen; with recommended videos on the right hand side of the screen, and more information about the video just below the video. It honestly appears that the main video, itself, takes up less of the area of the page than all the other elements on the page.
+As you can see in the image, the video is featured on the left-hand side of the screen; with recommended videos on the right hand side of the screen, and more information about the video just below the video. In terms of the **visual hierarchy** of the page, it appears that the main video, itself, takes up less of the area of the page than all the other elements on the page.
 
-I decided to unpause the video after giving the UI a little look over, and shortly after, I was thinking that there has to be a way to get the video (the reason why I’m on YouTube) to be more prominent on my screen. Maybe to get it fullscreen or some other choice that lets me interact with other things on the page.
+I decided to unpause the video after giving the UI a little look over, and shortly after, I was thinking that there has to be a way to get the video (the **focus** of why I’m on YouTube) to be more prominent on my screen. Maybe to get it fullscreen or some other choice that lets me interact with other things on the page.
 
 So I went ahead and hovered over the video, and was greeted with the updated page below.
 
@@ -26,7 +26,7 @@ So I went ahead and hovered over the video, and was greeted with the updated pag
 
 Ok, I actually did a little more than hover over the video— I actually also pressed the theater mode button (or pressed “t,” for theater) to enlarge the video, in addition to hovering over the video.
 
-In this hovered and enlarged state, the watcher is presented with a multitude of choices to change their video viewing experience. The obvious possible choices, including, play/pause, volume adjustment, seeking through the video, a fullscreen toggle, and captions (good for **accessibility**) toggle were all present. All stuff a user would find on basically any video player on your computer; which makes it very familiar for nearly anyone that has watched a video using a computer. Additionally, YouTube has a few extras, like theater mode, with its very unique icon, which I mentioned before, the autoplay button, which plays a video right after the current one finishes, and then the gear icon that allows you to change various other aspects about how the video is played, like video quality.
+In this hovered and enlarged state, the watcher is presented with a multitude of choices to change their video viewing experience. The obvious possible choices, including, play/pause, volume adjustment, seeking through the video, a fullscreen toggle, and captions (good for **accessibility**) toggle were all present. All stuff a user would **conventionally** find on basically any video player on your computer; which would fit the **mental model** of anyone that has watched a video using a computer before. Additionally, YouTube has a few extras, like theater mode, with its very unique icon, which I mentioned before, the autoplay button, which plays a video right after the current one finishes, and then the gear icon that allows you to change various other aspects about how the video is played, like video quality.
 
 In my opinion, I think that the theater icon is a little ambiguous for new users, it doesn't have a strong **affordance** for the user. I don’t think I really understood what it even did until I saw other people using it and realized how useful it could be while watching video. Now I use it all the time. Similar to the autoplay button, but in reverse. YouTube kind of forces the autoplay button on you when you first start using YouTube. They have it on by default and that’s the only reason I’d assume that anyone would even know what it did unless they got curious.
 
@@ -61,7 +61,7 @@ Finally, I scrolled just pasted the description box of the video, and was greete
     <p>I didn’t want to show any actual comments, just in case they were crazy.</p>
 </div>
 
-Clearly, it has a super simple layout. It tells you how many comments there are, you can sort through and see what people have said, and it has an indicator of where you can add a comment with “Add a comment…” and an underline below it.
+Clearly, it has a super simple layout. It tells you how many comments there are, you can sort through and see what people have said, and it has an indicator of where you can add a comment with “Add a comment…” and an underline below it standing as a **call-to-action** for any user wanting to comment.
 
 Now that I had looked through a little bit about the video, I decided to go back and really watch the video. After a while, I finished watching it. Now I know how I can learn Russian quickly to say hello to someone in St. Petersburg.
 
@@ -74,4 +74,4 @@ After the video was over, I was still bored, and took myself out of theater mode
 
 I decided to pick the video with the most views. If everyone else wants to hear about it, why shouldn’t I?
 
-And then the cycle of YouTube continues for its users until the user decides to close the site.
+And then the **user flow** of YouTube continues for its users until the user decides to close the site.
